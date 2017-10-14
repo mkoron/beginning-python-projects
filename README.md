@@ -7,7 +7,7 @@ Since I will be using Python 3.x, and the book uses Python 2.x, parts of the cod
 This series of projects is intended as brush up on my Python knowledge (since I haven't coded in this language in a while).
 
 - [ ] [code](https://github.com/mkoron/instant-markup) Project 1: Instant Markup
-- [ ] [code](https://github.com/mkoron/painting-pretty-picture) Project 2: Painting a Pretty Picture
+- [x] [code](https://github.com/mkoron/painting-pretty-picture) Project 2: Painting a Pretty Picture
 - [ ] [code](https://github.com/mkoron/xml-all-occasions) Project 3: XML for All Occasions
 - [ ] [code](https://github.com/mkoron/in-the-news) Project 4: In the News
 - [ ] [code](https://github.com/mkoron/virtual-tea-party) Project 5: A Virtual Tea Party
