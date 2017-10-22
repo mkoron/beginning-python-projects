@@ -11,7 +11,7 @@ This series of projects is intended as brush up on my Python knowledge (since I 
 - [x] [code](https://github.com/mkoron/xml-all-occasions) Project 3: XML for All Occasions
 - [ ] [code](https://github.com/mkoron/in-the-news) Project 4: In the News
 - [x] [code](https://github.com/mkoron/virtual-tea-party) Project 5: A Virtual Tea Party
-- [ ] [code](https://github.com/mkoron/remote-editing-cgi) Project 6: Remote Editing with CGI
+- [x] [code](https://github.com/mkoron/remote-editing-cgi) Project 6: Remote Editing with CGI
 - [ ] [code](https://github.com/mkoron/own-bulletin-board) Project 7: Your Own Bullettin Board
 - [ ] [code](https://github.com/mkoron/file-sharing-with-xml-rpc) Project 8: File Sharing with XML-RPC
 - [ ] [code](https://github.com/mkoron/file-sharing-with-gui) Project 9: File Sharing II - Now with GUI
