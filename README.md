@@ -15,4 +15,4 @@ This series of projects is intended as brush up on my Python knowledge (since I 
 - [x] [code](https://github.com/mkoron/own-bulletin-board) Project 7: Your Own Bullettin Board
 - [ ] [code](https://github.com/mkoron/file-sharing-with-xml-rpc) Project 8: File Sharing with XML-RPC
 - [ ] [code](https://github.com/mkoron/file-sharing-with-gui) Project 9: File Sharing II - Now with GUI
-- [ ] [code](https://github.com/mkoron/arcade-game) Project 10: Do-It-Yourself Arcade Game
+- [x] [code](https://github.com/mkoron/arcade-game) Project 10: Do-It-Yourself Arcade Game
