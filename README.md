@@ -14,5 +14,5 @@ This series of projects is intended as brush up on my Python knowledge (since I 
 - [x] [code](https://github.com/mkoron/remote-editing-cgi) Project 6: Remote Editing with CGI
 - [x] [code](https://github.com/mkoron/own-bulletin-board) Project 7: Your Own Bullettin Board
 - [x] [code](https://github.com/mkoron/file-sharing-with-xml-rpc) Project 8: File Sharing with XML-RPC
-- [ ] [code](https://github.com/mkoron/file-sharing-with-gui) Project 9: File Sharing II - Now with GUI
+- [x] [code](https://github.com/mkoron/file-sharing-with-gui) Project 9: File Sharing II - Now with GUI
 - [x] [code](https://github.com/mkoron/arcade-game) Project 10: Do-It-Yourself Arcade Game
